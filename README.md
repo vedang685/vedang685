@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/thisisvedang" target="blank"><img src="https://img.shields.io/twitter/follow/thisisvedang?logo=twitter&style=for-the-badge" alt="thisisvedang" /></a> </p>
 
+<img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="480" height="480" alt="Coding GIF">
+
 - 🔭 I’m currently working on **Gyan Grove**
 
 - 🌱 I’m currently learning **Ios development**

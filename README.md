@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedang</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate AI engineer and full stack developer from India</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
  <a href="https://linkedin.com/in/vedang685" target="_blank">
